@@ -1,106 +1,106 @@
 [
   {
     "id": "1",
-    "name": "超市便利"
+    "name": "Supermarket Convenience"
   },
   {
     "id": "2",
-    "name": "生鲜果蔬"
+    "name": "Fresh Fruits and Vegetables"
   },
   {
     "id": "3",
-    "name": "零食小吃"
+    "name": "Snacks"
   },
   {
     "id": "4",
-    "name": "美食餐饮"
+    "name": "Delicious Food and Dining"
   },
   {
     "id": "5",
-    "name": "鲜花烘培"
+    "name": "Flowers and Baking"
   },
   {
     "id": "6",
-    "name": "生活服务"
+    "name": "Life Services"
   },
   {
     "id": "7",
-    "name": "其他"
+    "name": "Others"
   },
   {
     "id": "8",
-    "name": "综合"
+    "name": "Comprehensive"
   },
   {
     "id": "10",
-    "name": "美容个护"
+    "name": "Beauty and Personal Care"
   },
   {
     "id": "11",
-    "name": "家居生活"
+    "name": "Home Life"
   },
   {
     "id": "12",
-    "name": "服饰箱包"
+    "name": "Clothing and Bags"
   },
   {
     "id": "13",
-    "name": "母婴玩具"
+    "name": "Maternal and Child Toys"
   },
   {
     "id": "15",
-    "name": "海淘进口"
+    "name": "Cross-border Imports"
   },
   {
     "id": "755",
-    "name": "快递代收"
+    "name": "Express Collection"
   },
   {
     "id": "756",
-    "name": "食品保健"
+    "name": "Food Health"
   },
   {
     "id": "764",
-    "name": "家居生活"
+    "name": "Home Life"
   },
   {
     "id": "769",
-    "name": "米面杂粮"
+    "name": "Rice, Noodles, and Grains"
   },
   {
     "id": "786",
-    "name": "水果生鲜"
+    "name": "Fruits and Fresh Produce"
   },
   {
     "id": "807",
-    "name": "社区健身"
+    "name": "Community Fitness"
   },
   {
     "id": "811",
-    "name": "艺术礼品"
+    "name": "Art Gifts"
   },
   {
     "id": "814",
-    "name": "今日特卖"
+    "name": "Today's Specials"
   },
   {
     "id": "816",
-    "name": "周边旅游"
+    "name": "Peripheral Tourism"
   },
   {
     "id": "820",
-    "name": "家装建材"
+    "name": "Home Decoration and Building Materials"
   },
   {
     "id": "823",
-    "name": "虚拟商品"
+    "name": "Virtual Goods"
   },
   {
     "id": "14057",
-    "name": "生活用品"
+    "name": "Daily Necessities"
   },
   {
     "id": "14181",
-    "name": "手机数码"
+    "name": "Mobile Digital"
   }
 ]
